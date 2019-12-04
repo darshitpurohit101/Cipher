@@ -5,6 +5,7 @@ Created on Thu Feb  7 18:45:44 2019
 
 @author: darshit
 """
+print("hello")
 choice = int(input("input 1 for encryption and 2 for decryption: "))
 
 if (choice == 1):
